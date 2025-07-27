@@ -26,17 +26,16 @@ The architecture of a convolutional neural network contains an implicit bias tow
 
 ## Features
 
-- 🚀 **Apple Silicon Optimized**: Full Metal Performance Shaders (MPS) support
-- 🎯 **No Training Data Required**: Works on single images
-- ⚡ **Fast Performance**: ~240ms per iteration on M1/M2
-- 📊 **Proven Results**: 8-15 dB PSNR improvement
-- 🔧 **Easy to Use**: Simple Python API
+- **Apple Silicon Optimized**: Full Metal Performance Shaders (MPS) support
+- **No Training Data Required**: Works on single images
+- **Fast Performance**: ~240ms per iteration on M1/M2
+- **Proven Results**: 8-15 dB PSNR improvement
+- **Easy to Use**: Simple Python API
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DeepImagePrior_Silicon.git
 cd DeepImagePrior_Silicon
 
 # Create conda environment
