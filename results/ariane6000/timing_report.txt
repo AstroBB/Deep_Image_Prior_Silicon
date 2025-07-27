@@ -1,0 +1,13 @@
+Ariane-5 Deep Image Prior - 6000 iterations
+==================================================
+
+Start time: 10:34:23
+End time: 10:58:24
+Total duration: 1439.09 seconds (23.98 minutes)
+Average time per iteration: 0.240 seconds
+Device: mps
+Image size: (512, 512)
+
+Results:
+Best PSNR: 29.43 dB at iteration 3520
+Improvement: 9.07 dB

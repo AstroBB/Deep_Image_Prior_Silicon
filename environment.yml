@@ -1,0 +1,19 @@
+name: deep-prior-silicon
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch>=2.0
+  - torchvision
+  - numpy<2.0
+  - scipy
+  - matplotlib
+  - scikit-image
+  - pillow
+  - pip
+  - pip:
+    - tqdm
+    - opencv-python
+    - imageio
